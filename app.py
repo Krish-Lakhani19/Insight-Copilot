@@ -127,7 +127,7 @@ def _build_rag_from_uploads(uploaded_files, settings):
 
 def chat_page():
     try:
-        st.title("AI ChatBot")
+        st.title("Insight Copilot")
         settings = Settings()
 
         with st.sidebar:
