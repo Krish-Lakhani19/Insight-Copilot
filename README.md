@@ -1,4 +1,4 @@
-# Insight-Copilot[Link] (https://rag-chatbot-oa5yalndpqyldcugipt6em.streamlit.app)
+# Insight-Copilot [Link](https://rag-chatbot-oa5yalndpqyldcugipt6em.streamlit.app)
 
 This project is a Streamlit chatbot that combines document retrieval with live web search so sports teams can ask questions and get grounded answers quickly. It supports multiple LLM providers and lets the user choose between concise and detailed responses.
 
