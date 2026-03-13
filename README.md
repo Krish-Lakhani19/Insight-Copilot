@@ -1,4 +1,4 @@
-# NeoStats Insight Copilot
+# RAG Chatbot
 
 This project is a Streamlit chatbot that combines document retrieval with live web search so sports teams can ask questions and get grounded answers quickly. It supports multiple LLM providers and lets the user choose between concise and detailed responses.
 
@@ -10,7 +10,7 @@ This project is a Streamlit chatbot that combines document retrieval with live w
 
 ## Project Structure
 ```
-Neostats-chatbot/
+RAG-chatbot/
 ├── app.py
 ├── config/
 │   └── config.py
