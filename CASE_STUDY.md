@@ -1,7 +1,7 @@
-# NeoStats Insight Copilot Case Study
+# Insight Copilot Case Study
 
 ## Use Case Objective
-Coaches, analysts, and scouts need fast, trustworthy answers that combine internal scouting reports with fresh public information. The goal is to build a chatbot that can answer performance questions, summarize reports, and retrieve recent updates in a single conversation.
+The goal is to build a chatbot that can answer performance questions, summarize reports, and retrieve recent updates in a single conversation.
 
 ## How I Approached The Problem
 I framed the problem as a retrieval plus reasoning task. The assistant should:
