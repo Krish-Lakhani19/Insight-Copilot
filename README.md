@@ -60,4 +60,4 @@ streamlit run app.py
 - If a model is retired, update the model name in your environment or sidebar
 
 ## Deployment
-The app is ready for Streamlit Cloud. Push this repo to GitHub and deploy using `AI_UseCase/Neostats-chatbot/app.py` as the entry point, then add your API keys in the Streamlit secrets panel.
+The app is ready for Streamlit Cloud. Push this repo to GitHub and deploy using `Insight-Copikot/app.py` as the entry point, then add your API keys in the Streamlit secrets panel.
